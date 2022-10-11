@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("Collection","mutableList의 두 번째 값은 ${mutableList.get(0)}")
         
         // 2. 빈 컬렉션 생성하기
-        var stringList = mutableListOf<String>()
+        var stringList = mutableListOf<String>()    //문자열로 된 빈 컬렉션 생성
         // 값 추가하기
         stringList.add("월")
         stringList.add("화")
