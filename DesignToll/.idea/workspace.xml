@@ -2,19 +2,14 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <target>android-31</target>
-      </config>
+      <config />
     </shared>
-  </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b69aa48-8271-4e58-a8ca-bd170566991e" name="Default Changelist" comment="">
+    <list default="true" id="47063d52-fab7-43db-a596-7d5bae8f23c0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Designtool/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Designtool/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Designtool/.idea/compiler.xml" afterDir="false" />
@@ -54,13 +49,14 @@
       <change afterPath="$PROJECT_DIR$/../Designtool/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Designtool/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Designtool/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ce09171928c5000c057e]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GR803\.android\avd\Lovely_JuHwan.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -69,7 +65,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2FjrhbNssCFr0RIvCcYHf9EefSy" />
+  <component name="ProjectId" id="2G3cToPg3cNg4asMYPZJho415Vq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -80,12 +76,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Designtool" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="My_Application.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="DesignToll.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -147,12 +141,23 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b69aa48-8271-4e58-a8ca-bd170566991e" name="Default Changelist" comment="" />
-      <created>1665016456454</created>
+      <changelist id="47063d52-fab7-43db-a596-7d5bae8f23c0" name="Default Changelist" comment="" />
+      <created>1665620717639</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665016456454</updated>
+      <updated>1665620717639</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
