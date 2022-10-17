@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.juhwan203.widgetsprogressbar"
+        applicationId "com.juhwan203.widgetsseekbar"
         minSdk 28
         targetSdk 32
         versionCode 1
