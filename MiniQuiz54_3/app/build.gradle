@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.juhwan203.customtext"
+        applicationId "com.juhwan203.miniquiz54_3"
         minSdk 28
         targetSdk 32
         versionCode 1
