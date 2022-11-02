@@ -56,7 +56,7 @@
         android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="50dp"
         android:onClick="callServiceFunction"
         android:text="서비스 함수 호출"
         app:layout_constraintEnd_toEndOf="parent"
