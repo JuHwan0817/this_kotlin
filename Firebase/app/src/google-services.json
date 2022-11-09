@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368942264907",
+    "firebase_url": "https://this-is-android-with-kot-8880d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "this-is-android-with-kot-8880d",
+    "storage_bucket": "this-is-android-with-kot-8880d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368942264907:android:f63a70df6e2d26720f93ce",
+        "android_client_info": {
+          "package_name": "net.juhwan203.thisisKotlin.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368942264907-dtie1urk1ilmhpkj9fs2f7khm07jfum9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTgionJrpa1kML2MtDyIK7nXjAvD4ftk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368942264907-dtie1urk1ilmhpkj9fs2f7khm07jfum9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
